@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import os, sys
-path = os.path.join(os.path.dirname(__file__), '../lib/')
+path = os.path.join(os.path.dirname(__file__), '../lub/')
 sys.path.insert(0, path)
 
 import requests, rsa
