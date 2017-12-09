@@ -2,7 +2,7 @@
 
 from .LineClient import LineClient
 from types import *
-from ..lib.curve.ttypes import OpType
+from ..lub.curve.ttypes import OpType
 from ..Net.LineServer import url
 
 
